@@ -8,8 +8,8 @@ tags:
   - Artificial Intelligence
   - Capitalism
   - Civics
-image: /images/big-tech-ai.jpg
-description: Data Centers benefit municipal taxes, but what about states in totality?
+image: /images/data-center-outside.jpg
+description: Data Centers benefit municipal taxes, but what about states?
 toc:
 ---
 Companies that own and operate data centers across the United States of America are stealing public funds from the rest of us. The tax rebates provided by different [state](https://www.streamdatacenters.com/wp-content/uploads/2020/09/TX-Tax-Incentives-Flyer.pdf) [and](https://www.oregonlive.com/silicon-forest/2023/02/oregon-property-tax-breaks-go-largely-to-big-tech-with-varied-results-and-unintended-consequences.html) [local](https://www.oregonlive.com/silicon-forest/2023/05/amazon-secures-1-billion-in-tax-breaks-for-five-new-data-centers-in-eastern-oregon.html) governments are piling up in the [hundreds of millions](https://goodjobsfirst.org/virginia-data-center-subsidy-costs-balloon-by-1051/) to [billions](https://www.oregonlive.com/silicon-forest/2023/05/amazon-secures-1-billion-in-tax-breaks-for-five-new-data-centers-in-eastern-oregon.html). Our state governments are handing these companies [unnecessary handouts](https://www.propublica.org/article/washington-data-centers-tech-jobs-tax-break) with the objective of remaining competitive against other states that is only producing a [race to the bottom](https://openyls.law.yale.edu/bitstream/handle/20.500.13051/684/The_Race_to_the_Bottom_in_a_Federal_System_Lessons_from_the_World_of_Trade_Policy.pdf) for all of us.
@@ -23,24 +23,3 @@ Prior to 2021, [the energy consumption of the United States was increasing, howe
 
 ## What Must be Done
 Good Jobs First recommends an immediate revoking of sales tax incentives for data centers. I find this argument compelling because data center tax incentives aren't the primary driver for location choice. Generally, the cost of electricity, proximity to fiber cables, and the overall infrastructure of the location is the driving factor for these projects. Furthermore, the corporations who are creating or using these facilities are some of the most profitable in the world. States must stop giving handouts to these corporations and ensure the citizens are getting the proper returns on the investment as well as destruction of their localities. If this doesn't happen, states will continue to see their tax base and services eroded for minimal benefit.
-
-Notes:
-
-* Port of Morrow subsidy to Amazon https://goodjobsfirst.org/at-1-billion-amazons-oregon-subsidy-is-largest-known-in-history/
-  * https://www.oregonlive.com/silicon-forest/2023/05/amazon-secures-1-billion-in-tax-breaks-for-five-new-data-centers-in-eastern-oregon.html
-  * https://www.oregonlive.com/silicon-forest/2024/06/former-oregon-officials-will-pay-2000-each-to-settle-ethics-complaint-over-amazon-deals.html
-    * Corruptibility in rural and less economically developed areas is more possible. Defending and attacking these policies is akin to class warfare. Where do the funds get taken from? How does this coincide with the defund the police?
-* https://www.oregonlive.com/silicon-forest/2025/04/oregon-house-votes-to-protect-consumers-from-data-center-power-costs.html
-  * Some regulations that are needed could be around removing subsidies for data centers. Not just the responsibility of payment being on them.
-* https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3546
-  * Oregon state law in session that will require the public utilities commission to classify large users of electricity.
-* https://minnesotareformer.com/2025/05/27/some-minnesota-lawmakers-want-to-extend-tax-breaks-for-energy-sucking-warehouses-why/
-  * Minnesota is offering tax incentives until 2102. Sales tax exemptions on computer equipment
-* https://www.streamdatacenters.com/wp-content/uploads/2020/09/TX-Tax-Incentives-Flyer.pdf
-  * Texas provides 
-* https://jlarc.virginia.gov/pdfs/reports/Rpt598-2.pdf
-  * For every $1 that VA spends on data center subsidies, the state receives about 48 cents back
-* https://leg.wa.gov/jlarc/taxReports/2016/DataCenterEquipment/f/default.htm#Report/Revenue
-  * The state received 22 million in property taxes, but lost more than double (57 million) in sales tax
-* https://www.propublica.org/article/washington-data-centers-tech-jobs-tax-break
-  * Washington state's tax incentives snowballed quickly
