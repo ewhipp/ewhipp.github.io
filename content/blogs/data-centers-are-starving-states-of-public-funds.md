@@ -9,10 +9,18 @@ tags:
   - Capitalism
   - Civics
 image: /images/big-tech-ai.jpg
-description: When was the last time we were inspired by the delivery of a new technology?
+description: Data Centers benefit municipal taxes, but what about states in totality?
 toc:
 ---
-Companies that own and operate data centers across the United States of America are stealing public funds from the rest of us. The tax rebates provided by different [state](https://www.streamdatacenters.com/wp-content/uploads/2020/09/TX-Tax-Incentives-Flyer.pdf) [and](https://www.oregonlive.com/silicon-forest/2023/02/oregon-property-tax-breaks-go-largely-to-big-tech-with-varied-results-and-unintended-consequences.html) [local](https://www.oregonlive.com/silicon-forest/2023/05/amazon-secures-1-billion-in-tax-breaks-for-five-new-data-centers-in-eastern-oregon.html) governments are piling up in the [hundreds of millions](https://goodjobsfirst.org/virginia-data-center-subsidy-costs-balloon-by-1051/) to [billions](https://www.oregonlive.com/silicon-forest/2023/05/amazon-secures-1-billion-in-tax-breaks-for-five-new-data-centers-in-eastern-oregon.html). Our local governments are handing these 
+Companies that own and operate data centers across the United States of America are stealing public funds from the rest of us. The tax rebates provided by different [state](https://www.streamdatacenters.com/wp-content/uploads/2020/09/TX-Tax-Incentives-Flyer.pdf) [and](https://www.oregonlive.com/silicon-forest/2023/02/oregon-property-tax-breaks-go-largely-to-big-tech-with-varied-results-and-unintended-consequences.html) [local](https://www.oregonlive.com/silicon-forest/2023/05/amazon-secures-1-billion-in-tax-breaks-for-five-new-data-centers-in-eastern-oregon.html) governments are piling up in the [hundreds of millions](https://goodjobsfirst.org/virginia-data-center-subsidy-costs-balloon-by-1051/) to [billions](https://www.oregonlive.com/silicon-forest/2023/05/amazon-secures-1-billion-in-tax-breaks-for-five-new-data-centers-in-eastern-oregon.html). Our state governments are handing these companies [unnecessary handouts](https://www.propublica.org/article/washington-data-centers-tech-jobs-tax-break) with the objective of remaining competitive against other states that is only producing a [race to the bottom](https://openyls.law.yale.edu/bitstream/handle/20.500.13051/684/The_Race_to_the_Bottom_in_a_Federal_System_Lessons_from_the_World_of_Trade_Policy.pdf) for all of us.
+
+
+##  Effects of Data Centers
+Prior to 2021, [the energy consumption of the United States was increasing, however, our emissions remained relatively steady](https://www.eia.gov/todayinenergy/detail.php?id=43515). This was due to increasing efficiency standards like energy star. This changed in 2021 when OpenAI released GPT-3, corporate demand for energy has been spiking ever since. When it came to my attention that the [massive amounts of energy that modern data centers](https://www.energy.gov/articles/doe-releases-new-report-evaluating-increase-electricity-demand-data-centers) need, I began researching the impact that it will have on my home state of Oregon. [Rolling blackouts](https://www.oregonlive.com/silicon-forest/2024/12/soaring-data-center-electricity-demand-could-trigger-northwest-blackouts-industry-insiders-say.html), [higher costs](https://www.olcv.org/did-you-know-data-centers-arent-paying-their-share/), and community destruction by [pollution](https://www.oregonlive.com/silicon-forest/2024/02/one-of-oregons-smallest-utilities-is-suddenly-among-the-states-biggest-polluters-why-amazon-data-centers.html) are just a few of the impacts that are currently being reported. The main driver for this is the development of generative artificial intelligence on one hand and the desire to produce jobs on the other hand. The problem is that both sides of this argument are fraught. On one hand, we aren't seeing [the profits](https://www.wheresyoured.at/wheres-the-money/) that would explain [the need to invest](https://www.goldmansachs.com/insights/goldman-sachs-exchanges/a-skeptical-look-at-ai-investment) in these tools. On the other hand,  
+
+## Tax Reality
+
+## What Must be Done
 
 Notes:
 
@@ -20,11 +28,17 @@ Notes:
   * https://www.oregonlive.com/silicon-forest/2023/05/amazon-secures-1-billion-in-tax-breaks-for-five-new-data-centers-in-eastern-oregon.html
   * https://www.oregonlive.com/silicon-forest/2024/06/former-oregon-officials-will-pay-2000-each-to-settle-ethics-complaint-over-amazon-deals.html
     * Corruptibility in rural and less economically developed areas is more possible. Defending and attacking these policies is akin to class warfare. Where do the funds get taken from? How does this coincide with the defund the police?
-
 * https://www.oregonlive.com/silicon-forest/2025/04/oregon-house-votes-to-protect-consumers-from-data-center-power-costs.html
   * Some regulations that are needed could be around removing subsidies for data centers. Not just the responsibility of payment being on them.
 * https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3546
   * Oregon state law in session that will require the public utilities commission to classify large users of electricity.
-
+* https://minnesotareformer.com/2025/05/27/some-minnesota-lawmakers-want-to-extend-tax-breaks-for-energy-sucking-warehouses-why/
+  * Minnesota is offering tax incentives until 2102. Sales tax exemptions on computer equipment
 * https://www.streamdatacenters.com/wp-content/uploads/2020/09/TX-Tax-Incentives-Flyer.pdf
   * Texas provides 
+* https://jlarc.virginia.gov/pdfs/reports/Rpt598-2.pdf
+  * For every $1 that VA spends on data center subsidies, the state receives about 48 cents back
+* https://leg.wa.gov/jlarc/taxReports/2016/DataCenterEquipment/f/default.htm#Report/Revenue
+  * The state received 22 million in property taxes, but lost more than double (57 million) in sales tax
+* https://www.propublica.org/article/washington-data-centers-tech-jobs-tax-break
+  * Washington state's tax incentives snowballed quickly
