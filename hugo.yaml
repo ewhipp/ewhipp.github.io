@@ -212,7 +212,7 @@ params:
             - Monitor engineer at [The National Presbyterian Church](https://nationalpres.org/)
             - Supported in the development of courses ATEC-484/ATEC-684 through research into the [JUCE](https://www.juce.com) framework.
         featuredLink:
-          enable: true
+          enable: false
           name: "Unofficial Transcripts"
           url: "/downloads/au-transcripts-2018.pdf"
 
