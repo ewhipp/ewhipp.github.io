@@ -198,7 +198,7 @@ params:
           Extracurricular Activities
             - Association for Computing and Machinery (ACM)
         featuredLink:
-          enable: true
+          enable: false
           name: "Unofficial Transcripts"
           url: "/downloads/au-transcripts-2018.pdf"
       - title: "Bachelor of Science in Audio Technology"
@@ -236,7 +236,6 @@ params:
     socialNetworks:
       github: https://github.com/ewhipp
       linkedin: https://www.linkedin.com/in/erik-w-347736116/
-      twitter: https://bsky.app/profile/edw241.bsky.social
 
   listPages:
     disableFeaturedImage: false
